@@ -3,6 +3,8 @@
 <img src ="./logo.png" alt="logo de bdeb">
 
 ### Première contribution au projet : commit
+En cours de changement 
+
 •	Readme.md  créer web
 
 •	Licences (apprentissage recommandé): MIT (commercialisé), GNU (open source)
