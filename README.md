@@ -1,5 +1,7 @@
 # Projet2
 
+<img src ="./logo.png" alt="logo de bdeb">
+
 ### Première contribution au projet : commit
 •	Readme.md  créer web
 
